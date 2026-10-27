@@ -5,4 +5,4 @@ After mucking around with voice implementations for the Qwen models I used Claud
 All updates on the Open Voice implementation I intend to push here.
 
 To download the files go to Releases tab on the right. 
-Te Release v1.0 is available here: https://github.com/sergionzd/OpenVoice_checkpoints/releases/tag/v1.0
+The Release v1.0 is available here: https://github.com/sergionzd/OpenVoice_checkpoints/releases/tag/v1.0
